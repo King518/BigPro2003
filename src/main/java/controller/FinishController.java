@@ -10,6 +10,7 @@ public class FinishController {
 
     public static void main(String[] args) {
         System.out.println("heihei2000");
+        System.out.println("heihei100");
     }
 
 }
