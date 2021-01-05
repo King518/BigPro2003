@@ -9,7 +9,8 @@ public class FinishController {
 
 
     public static void main(String[] args) {
-        System.out.println("heihei");
+
+        System.out.println("heihei100");
     }
 
 }
