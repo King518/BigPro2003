@@ -6,4 +6,8 @@ package controller;
  * desc: use for java11
  */
 public class UserController {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
 }
